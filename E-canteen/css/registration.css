@@ -1,0 +1,45 @@
+body{background: url("regisback.PNG") no-repeat fixed; background-size: 33.6cm;}
+.sidepic{
+    position: absolute;
+    height: 19.2cm;
+    right: 0%;
+    top: -0.5%;
+
+}
+
+.header{
+    font-size: 70px;
+    font-family: 'Lobster', cursive;;
+
+}
+.title{
+    margin-left: 2%;
+    font-size: 30px;
+}
+.container{
+    font-family: 'Tajawal', sans-serif;
+    line-height: 2cm;
+    font-size: 30px;
+    position: absolute;
+    margin-top: 0%;
+    margin-left: 14%;
+}
+button{
+    position: absolute;
+    border: none;
+    color: white;
+    background-color:lightcoral;
+    padding: 18px 45px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    right: -103%;
+}
+
+.icon{
+    
+    height: 1cm;
+    width: 1cm;
+    
+}

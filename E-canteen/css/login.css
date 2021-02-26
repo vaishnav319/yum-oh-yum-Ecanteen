@@ -1,0 +1,44 @@
+.header{
+    position: absolute;
+    font-size: 60px;
+    
+    right: 5%;
+    margin-top: 1%;
+}
+.title{
+    position: absolute;
+    font-size: 90px;
+    margin-top: 5%;
+    font-weight: bolder;
+    right: 20%;
+    
+
+}
+.login{
+    position: absolute;
+    margin-top: 9%;
+    right: 1%;
+}
+.container{
+    position: absolute;
+    right: 18%;
+    margin-top: 27%;
+    font-family: 'Tajawal', sans-serif;
+    font-size: 25px;
+}
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 40px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    right: 10%;
+  }
+  .icons{
+      
+  }
+body{background: lightblue url("backg.JPG") no-repeat fixed ;
+    background-size: 42cm;}

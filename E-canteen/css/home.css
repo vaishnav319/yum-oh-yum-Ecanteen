@@ -1,0 +1,207 @@
+body{background: url("homeback.png")  fixed; }
+.header{
+ text-align: center;
+ font-size: 40px;
+ font-family: 'Merriweather Sans';
+ margin-top: 0%;
+}
+.titleimage{
+    position:absolute;
+    height: 1.5cm;
+    width: 2.5cm  ;
+    left: 35%;
+    }
+
+
+ul{
+    list-style: none;
+    text-decoration: none;
+    color: black;
+}
+li{
+    display:inline;
+    margin: 80px;
+    font-size: 28px;
+}
+.homeicon,.menuicon,.carticon{
+    height: 1cm;
+    width: 1cm;
+}
+.homeicon{
+    position: absolute;
+    left: 5.3%;
+    
+}
+.menuicon{
+    position: absolute;
+    left: 20.4%;
+   
+}
+.carticon{
+    position: absolute;
+    left: 35.5%;
+   
+}
+.sideleaf{
+    height: 5cm;
+    width: 6cm;
+    position: relative;
+    margin-left:-3% ;
+    margin-top: ;
+
+}
+.sidepan{
+    height: 5cm;
+    width: 5cm;
+    position: absolute;
+    right: 0%;
+    margin-top: -12%;
+    border: none;
+}
+.homepic{
+    position: absolute;
+    height: 14cm;
+    width: 35cm;
+    right: 0%;
+    margin-top: -9%;
+}
+.picmatter{
+    font-family: 'RocknRoll One', sans-serif;
+    font-size: 75px;
+    font-weight: 600;
+    position: absolute;
+    left: 15%;
+    margin-top: -9%;
+}
+.picmatter2{
+    font-family: 'Oswald', sans-serif;
+    font-family: 'RocknRoll One', sans-serif;
+    position: absolute;
+    left:15%;
+    margin-top: 6%;
+}
+.scroll{
+    font-family: 'Ballet', cursive;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'RocknRoll One', sans-serif;
+    margin-top: 4%;
+    margin-left: 2%;
+}
+.arrow{
+    position: absolute;
+    left: 1%;
+    height: 6cm;
+    width: 4cm;
+}
+.off{
+    
+    margin-top: 20%;
+    margin-left: 5% ;
+    font-size: 60px;
+    font-weight: 400;
+}
+.gallery{
+    margin: 10px 50 px;
+    position: absolute;
+    transition: 0.1s;
+}
+.gallery img{
+    
+    
+    padding:20px;
+    filter: grayscale(0%);
+    left: 6%;
+    transition: 0.5s;
+      
+    
+}
+.gallery img:hover{
+    filter:grayscale(0%);
+    transform: scale(1.02);
+}
+.soup,.fries,.burgers,.veggie,.meal{
+    font-family: 'RocknRoll One', sans-serif;
+    font-size: 20px;
+    font-weight: 200;
+    position: absolute;
+    background-color: black;
+    color: white;  
+   
+    width: 7.95cm;
+    opacity: 0.8;
+    text-align: center;
+    
+}
+   .soup{
+    margin-left: 86%;
+    margin-top: -91.5%; 
+   }
+   .fries{
+    margin-left: 85%;
+    margin-top: -22%;
+   }
+   .burgers{
+    margin-left: 176%;
+    margin-top: -185%;
+    }
+    .meal{
+    margin-left: 311%;
+    margin-top: -80%;
+
+    }
+    .veggie{
+    margin-left: 311%;
+    margin-top: -22%;
+            }
+    div.company {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    
+    }
+    
+    div.company:hover {
+    border: 1px solid #777;
+    }
+    
+    div.company img {
+    width: 100%;
+    height: auto;
+    }
+    
+    div.desc {
+    padding: 15px;
+    text-align: center;
+    }
+
+    .freedel,.offers,.rest{
+        height: 3cm;
+        width: 3cm;
+        
+    }
+    .rest{
+        margin-left: 15%;
+
+    }
+    .offers{
+        margin-left: 120%;
+        margin-top: -30%;
+    }
+    .freedel{
+        margin-left: 220%;
+        margin-top: -33%;
+    }
+
+    .footer {
+        position:absolute;
+        left: 0;
+
+        width: 100%;
+        background-color: black;
+        color: white;
+      }
+      .contact{
+          height: 1cm;
+          width: 1cm;
+          color: white;text-decoration: none;
+      }
